@@ -14,7 +14,7 @@
   "dependencies": {
     "lil-gui": "^0.18.1",
     "maath": "^0.7.0",
-    "three": "^0.153.0",
+    "three": "^0.168.0",
     "vercel": "^31.0.4"
   }
 }

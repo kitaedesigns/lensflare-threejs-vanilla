@@ -485,7 +485,6 @@ export function LensFlareEffect(
             gl_FragColor = vec4(finalColor, mix(finalColor, -vec3(.15), 0.5) * opacity);
 
             #include <tonemapping_fragment>
-            #include <encodings_fragment>
         }
     }
     `,
